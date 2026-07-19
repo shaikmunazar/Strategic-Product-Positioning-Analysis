@@ -58,8 +58,8 @@ Revenue Optimization: By creating performance indicators and placement analysis 
 
 📈 Dashboard Preview
 
-🔗 Live Dashboard: View on Tableau Public
-🎥 Project Demo: Watch Presentation Video
+🔗 *Live Dashboard:* [View on Tableau Public](https://public.tableau.com/app/profile/shaik.munazar/vizzes)
+🎥 *Project Demo:* [Watch Presentation Video](https://drive.google.com/file/d/16_p7iiP9TXvJIchO30oqPl1gVrTzUJyg/view?usp=sharing)
 
 📁 Repository Structure
 
